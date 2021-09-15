@@ -1,0 +1,5 @@
+export {Meeting} from './model'
+export {MeetingDto} from './dto/dto'
+export {IFMeeting} from './interface'
+export {MeetingsModule} from './meetings.module'
+export {MeetingsResponse} from './meetings.responsitory'
